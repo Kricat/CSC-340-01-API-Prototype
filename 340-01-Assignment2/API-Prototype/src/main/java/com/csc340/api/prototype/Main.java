@@ -29,7 +29,7 @@ public class Main {
 
         HttpRequest getRequest = HttpRequest.newBuilder()
                 .uri(new URI("https://matchilling-chuck-norris-jokes-v1.p.rapidapi.com/jokes/random"))
-                .headers("accept", "application/json", "X-RapidAPI-Key", "ea402b1260mshca96534684bd5ffp1fb674jsn9f108ce9ee79",
+                .headers("accept", "application/json", "X-RapidAPI-Key", ".........................",
                         "X-RapidAPI-Host", "matchilling-chuck-norris-jokes-v1.p.rapidapi.com")
                 .build();
 
